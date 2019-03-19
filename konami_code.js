@@ -15,7 +15,7 @@ function onKeyDownHandler(e) {
     index++;
   console.log(key)
     if (index === code.length) {
-      alert("Screw you Ollie!");
+      alert("Horray!");
  
       index = 0;
     }
